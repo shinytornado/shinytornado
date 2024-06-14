@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front end projects.**
 
-- 📫 How to reach me **linkedin - shashank srivaatsava pothula**
+- 📫 reach me through **linkedin - shashank srivaatsava pothula**
 
 - ⚡ Fun fact **I'm definitely not funny ✌🏻**
 
