@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **linkedin - shashank srivaatsava pothula**
 
-- ⚡ Fun fact **I'm definitely not funny ✌🏻**
+- ⚡ Fun fact **I may be funny ✌🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
