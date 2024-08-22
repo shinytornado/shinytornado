@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shashank Srivaatsava</h1>
-<h3 align="center">A passionate web developer.</h3>
+<h3 align="center">Hi 👋, I'm Shashank Srivaatsava</h3>
+<h6 align="center">A passionate web developer.</h6>
 
 - 🌱 I’m currently learning **full stack development.**
 
 - 👯 I’m looking to collaborate on **front end projects.**
 
 - 📫 How to reach me **linkedin - shashank srivaatsava pothula**
-
-- ⚡ Fun fact **I may be funny ✌🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
