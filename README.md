@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **front end projects.**
 
-- 📫 How to reach me **linkedin - shashank srivaatsava pothula**
-
 <h3 align="center">Projects Completed</h3>
 <div align="center">
 <a href='https://nomnom-aouo.onrender.com/'>Food-Delivery App</a> <br>
