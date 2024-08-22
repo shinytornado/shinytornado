@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **linkedin - shashank srivaatsava pothula**
 
-<h3>Projects Completed</h3>
-<a href='https://nomnom-aouo.onrender.com/' target='_blank'>Food-Delivery App</a>
-<a href='https://shinytornado.github.io/taato' target='_blank'>Front-End Project</a>
-<a href='https://shinytornado.github.io/portfolio' target='_blank'>Portfolio</a>
+<h3 align="center">Projects Completed</h3>
+<div align="center">
+<a href='https://nomnom-aouo.onrender.com/'>Food-Delivery App</a> <br>
+<a href='https://shinytornado.github.io/taato'>Front-End Project</a> <br>
+<a href='https://shinytornado.github.io/portfolio'>Portfolio</a>
+</div>
