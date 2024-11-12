@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development.**
 
-- 👯 I’m looking to collaborate on **front end projects.**
+- 👯 I’m looking to collaborate on **full stack projects.**
 
 <h3 align="center">Projects Completed</h3>
 <div align="center">
